@@ -15,3 +15,5 @@ smTripleCorrelation_CoordinateBased #
 ```
 
 Codes were tested and executed in `MATLAB 2020b`.
+
+Download all Folders and execute codes in the order noted below
